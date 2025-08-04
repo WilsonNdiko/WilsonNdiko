@@ -40,7 +40,7 @@ Currently engineering:
 ### 🌐 Let’s Connect
 
 <p>
-  <a href="https://ndiko.dev" target="_blank"><img src="https://img.shields.io/badge/-ndiko.dev-000?&logo=vercel&style=for-the-badge" /></a>
+  <a href="https://wilsonndiko.netlify.app/#" target="_blank"><img src="https://img.shields.io/badge/-ndiko.dev-000?&logo=vercel&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/yourLinkedInUsername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://twitter.com/yourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
 </p>
