@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Systems Builder | Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://your-photo-url.com" alt="Ndiko" width="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/WilsonNdiko/WilsonNdiko/main/profile-pic.jpg" alt="Ndiko" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
