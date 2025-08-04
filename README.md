@@ -33,7 +33,7 @@ Currently engineering:
 |----------------|---------------------------------------------|-------------------|
 | [Talksy](#)     | MVP for a new kind of social communication  | Next.js, Firebase |
 | [Smart Farm](#) | Real-time smart agriculture system          | Python, PHP, IoT  |
-| [ndiko.dev](#)  | My personal portfolio website               | Next.js, Tailwind |
+| [ndiko.dev](https://wilsonndiko.netlify.app/#)  | My personal portfolio website               | Next.js, Tailwind |
 
 ---
 
