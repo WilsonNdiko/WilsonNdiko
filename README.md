@@ -211,10 +211,10 @@ I don't chase trends — I adopt tools that solve **specific architectural probl
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wilsonndiko.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wilsonndiko.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wilsonndiko.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luxnectar.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson_Ndiko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilsonndiko)
 [![Twitter](https://img.shields.io/badge/Twitter-@LuxNectar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuxNectar)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ndikowilson99@gmail.com)
 
 </div>
 
