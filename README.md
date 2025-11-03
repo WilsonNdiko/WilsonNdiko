@@ -79,7 +79,7 @@ I value deep reasoning over enthusiasm — every component should justify its ex
 ### 🤝 Connect
 📫 **Portfolio:** [wilsonndiko.dev](#)  
 💬 **LinkedIn:** [linkedin.com/in/wilsonndiko](#)  
-🧠 **Twitter (X):** [@WilsonNdiko](#)
+🧠 **Twitter (X):** [@LuxNectar](#)
 
 ---
 
