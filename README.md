@@ -1,50 +1,89 @@
-<h1 align="center">Hey 👋, I'm Ndiko</h1>
-<h3 align="center">Full Stack Developer | Systems Builder | Tech Innovator</h3>
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f172a&height=180&section=header&text=Wilson%20Ndiko%20🚀&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Technical%20Founder%20%7C%20Systems%20Thinker&descAlignY=70&descAlign=62)
+
+> Building systems that think — not just run.
+
+---
+
+### 👋 Hey, I'm **Ndiko**
+I'm a **full-stack engineer and product builder** who moves fluidly between architecture, design, and code.  
+I build **intelligent, composable systems** — not fragments — and I use AI as an *amplifier of reasoning*, not a shortcut.
+
+I’ve led projects from zero to prototype, shipped full platforms, and crafted developer frameworks for speed and clarity.
+
+---
+
+### ⚙️ Current Focus
+- 🧠 **AI-driven systems** — building tools that reason, automate, and learn.  
+- 🏗 **Foundational frameworks** — reusable architectures that scale cleanly.  
+- 🌍 **Real-world applications** — projects like *OrganTrack*, *LifeLedger*, and *HouseFlow*.  
+- 🧩 **Developer infrastructure** — modular backends, system scaffolds, and automation pipelines.
+
+---
+
+### 🧬 Technical DNA
+| Domain | Stack |
+|:--|:--|
+| **Frontend** | Next.js · React · Tailwind · TypeScript |
+| **Backend** | Node.js · Express · Python · PHP · Java (Spring) |
+| **AI / Data** | LangChain · OpenAI API · FastAPI · Flask · Supabase |
+| **Infra & DevOps** | Docker · Vercel · Railway · GitHub Actions |
+| **Blockchain / Web3** | Hedera · Solidity (basics) |
+| **Principles** | Clean Architecture · Domain-Driven Design · Systems Thinking |
+
+---
+
+### 🛠️ Featured Projects
+#### 🚑 [**OrganTrack**](https://organ-track-organ-donation-tracking.vercel.app/)
+> A transparent organ donation ledger powered by Hedera — ensuring traceability, integrity, and trust in critical health data.
+
+#### 💼 [**LifeLedger**]
+> A blockchain-inspired record system for managing digital life events, built with Next.js + Supabase.
+
+#### 🏢 [**HouseFlow**]
+> Flat-house management system — modular architecture with role-based logic for admins, managers, and tenants.
+
+#### ⚡ [**AI System Scaffolder**]
+> Experimental agent-driven framework that auto-generates and structures full-stack apps from natural language prompts.
+
+---
+
+### 🧭 Philosophy
+> “Build systems worth scaling.”  
+Every project starts with a core invariant: **clarity of architecture**, **speed of iteration**, and **discipline in design**.
+
+I value deep reasoning over enthusiasm — every component should justify its existence in the system.
+
+---
+
+### 🧰 Toolbox
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
+---
+
+### 📊 Stats & Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WilsonNdiko&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WilsonNdiko&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect
+📫 **Portfolio:** [wilsonndiko.dev](#)  
+💬 **LinkedIn:** [linkedin.com/in/wilsonndiko](#)  
+🧠 **Twitter (X):** [@WilsonNdiko](#)
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilsonNdiko/WilsonNdiko/main/4.jpeg" alt="Ndiko" width="200" style="border-radius: 50%;" />
+  <i>“The craft is in clarity — the vision is in systems.”</i><br>
+  <img src="https://komarev.com/ghpvc/?username=WilsonNdiko&label=Profile%20views&color=0e75b6&style=flat" alt="WilsonNdiko" />
 </p>
-
----
-
-🚀 I thrive on building lean, smart systems from scratch.  
-Currently engineering:
-
-- 🗣️ **Talksy** – the future of seamless human interaction  
-- 🌾 **Smart Farming Systems** – tech-meets-agriculture for food resilience
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project        | Description                                 | Tech Used         |
-|----------------|---------------------------------------------|-------------------|
-| [Talksy](#)     | MVP for a new kind of social communication  | Next.js, Firebase |
-| [Smart Farm](#) | Real-time smart agriculture system          | Python, PHP, IoT  |
-| [ndiko.dev](https://luxnectar.netlify.app/#)  | My personal portfolio website               | Next.js, Tailwind |
-
----
-
-### 🌐 Let’s Connect
-
-<p>
-  <a href="https://wilsonndiko.netlify.app/#" target="_blank"><img src="https://img.shields.io/badge/-ndiko.dev-000?&logo=vercel&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/yourLinkedInUsername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
-</p>
-
----
-
-> “If it solves a real problem, I’m building it.”
