@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack engineer** who architects **composable, intelligent systems** from first principles. I specialize in building platforms that scale cleanly — blending modern AI capabilities with disciplined software design.
+I'm a **full-stack engineer in the making** who architects **composable, intelligent systems** from first principles. I specialize in building platforms that scale cleanly — blending modern AI capabilities with disciplined software design.
 
 **What I do differently:**
 - 🧠 Treat AI as a reasoning amplifier, not a code generator
