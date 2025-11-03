@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=Wilson%20Ndiko&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20Technical%20Founder&descAlignY=55&descSize=18)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=Wilson%20Ndiko&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Systems%20Architect%20%7C%20Technical%20Founder&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;Not+just+shipping+code;AI+%2B+Architecture+%2B+Craft)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack engineer in the making** who architects **composable, intelligent systems** from first principles. I specialize in building platforms that scale cleanly — blending modern AI capabilities with disciplined software design.
+I'm an aspiring **full-stack engineer** who architects **composable, intelligent systems** from first principles. I specialize in building platforms that scale cleanly — blending modern AI capabilities with disciplined software design.
 
 **What I do differently:**
 - 🧠 Treat AI as a reasoning amplifier, not a code generator
